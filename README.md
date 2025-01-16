@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 👋
+
+My name is Garrett Weaver and I'm a senior Computer Science student at the University of Dayton. I have a strong background in Java, with experience in Python, Javascript, HTML/CSS, and SQL. I also have significant cloud experience from my time at the J.M. Smucker Company and from passing the [AWS Certified Cloud Practitioner exam](https://cp.certmetrics.com/amazon/en/public/verify/credential/b85f8698f4bb41fe811cdb78e10f9176).
 
 <!--
 **gweaver15/gweaver15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

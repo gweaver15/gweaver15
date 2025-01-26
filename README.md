@@ -12,4 +12,4 @@ My name is Garrett Weaver and I'm a senior Computer Information Systems student 
 
 - LinkedIn: [Garrett Weaver](https://www.linkedin.com/in/garrett-weaver/)
 - Email: [gdweaver15@gmail.com](mailto:gdweaver15@gmail.com)
-- Portfolio: [here](https://github.com/gweaver15/PortfolioSite). Still a work in progress
+- Portfolio: [here](https://garrettweaver.vercel.app/). Still a work in progress

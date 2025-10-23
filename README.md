@@ -5,8 +5,8 @@ My name is Garrett Weaver and I'm a Software Engineer looking for my next role i
 ## 🌱 Currently Working On ...
 
 - **Cloud Applications**: I'm building a new cloud-based project to improve my own skills with various AWS services.
-- **Cybersecurity**: Learning about vulnerabilies and how to develop more secure software.
-- **Test Automation**: Becoming more comfortable with test automation tools like JUnit to increase time savings.
+- **Spring Boot**: Getting better with using the framework and its different functionalities.
+- **Build Automation**: Learning tools like CloudFormation and Terraform to reduce build/provisioning time.
   
 ## 📫 How to reach me: ...
 

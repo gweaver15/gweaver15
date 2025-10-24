@@ -13,3 +13,5 @@ My name is Garrett Weaver and I'm a Software Engineer looking for my next role i
 - LinkedIn: [Garrett Weaver](https://www.linkedin.com/in/garrett-weaver/)
 - Email: [gdweaver15@gmail.com](mailto:gdweaver15@gmail.com)
 - Portfolio: [here](https://garrettweaver.vercel.app/).
+
+Feel free to reach out with any tips feedback, or words of encouragement!
